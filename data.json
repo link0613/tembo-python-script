@@ -1,0 +1,36 @@
+{
+  "parents": [
+    {"parent": "Henry", "child": {"name": "Calvin", "age": 2}},
+    {"parent": "Ada", "child": {"name": "Lily", "age": 3}},
+    {"parent": "Emilia", "child": {"name": "Petra", "age": 1}},
+    {"parent": "Biff", "child": {"name": "Biff Jr", "age": 4}},
+    {"parent": "Milo", "child": {}}
+  ],
+
+  "curriculum": [
+    {
+        "age": 1,
+        "activity": [
+            "Try singing a song together.",
+            "Point and name objects."
+            ]
+    },
+    {
+        "age": 2,
+        "activity": [
+            "Go outside and feel surfaces.",
+            "Draw with crayons.",
+            "Play with soundmaking toys or instruments.",
+            "Look at family pictures together."
+            ]
+    },
+    {
+        "age": 3,
+        "activity": [
+            "Build with blocks.",
+            "Try a simple puzzle.",
+            "Read a story together."
+            ]
+    }
+  ]
+}
