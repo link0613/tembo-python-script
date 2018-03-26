@@ -36,22 +36,22 @@ Please input the name of parent you are going to add to data. (ex: 'David') :
 Please input the age for inputing curriculum data.: 2
 
 Please input the activity you're going to add.: 'new Activity for 2'
-Added new activity:new Activity for 2
+        Added new activity:new Activity for 2
 
 Please input the activity you're going to add.:
-Adding activities for this age is completed.
+        Adding activities for this age is completed.
 
 Please input the age for inputing curriculum data.: 5
-Added new age: 5
+        Added new age: 5
 
 Please input the activity you're going to add.: 'activity for 5'
-Added new activity:activity for 5
+        Added new activity:activity for 5
 
 Please input the activity you're going to add.: 'new one'
-Added new activity:new one
+        Added new activity:new one
 
 Please input the activity you're going to add.:
-Adding activities for this age is completed.
+        Adding activities for this age is completed.
 
 Please input the age for inputing curriculum data.:
 Inputing parent data is completed!

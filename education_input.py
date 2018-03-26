@@ -77,15 +77,15 @@ while True:
 	if len(curriculumIndexList) == 0:
 		curriculum.append({'age':curriculumAge, 'activity':[]})
 		curriculumIndexList = [len(curriculum) - 1]
-		print 'Added new age: ' + str(curriculumAge)
+		print '\tAdded new age: ' + str(curriculumAge)
 	
 	while True:
 		try:
 			activityItem = input('\nPlease input the activity you\'re going to add.: ')
 			curriculum[curriculumIndexList[0]]['activity'].append(str(activityItem))
-			print 'Added new activity:' + str(activityItem)
+			print '\tAdded new activity:' + str(activityItem)
 		except:
-			print 'Adding activities for this age is completed.'
+			print '\tAdding activities for this age is completed.'
 			break
 
 print '\n Inputing data is completed. \n\n'
