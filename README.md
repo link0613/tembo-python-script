@@ -64,20 +64,20 @@ Parent: Henry
         Child: Calvin    Age: 2
 
         .::Activity::.
-        Go outside and feel surfaces.
-        Draw with crayons.
-        Play with soundmaking toys or instruments.
-        Look at family pictures together.
-        new Activity for 2
+        Henry : Go outside and feel surfaces.
+        Henry : Draw with crayons.
+        Henry : Play with soundmaking toys or instruments.
+        Henry : Look at family pictures together.
+        Henry : new Activity for 2
 
 Parent: Ada
 
         Child: Lily      Age: 3
 
         .::Activity::.
-        Build with blocks.
-        Try a simple puzzle.
-        Read a story together.
+        Ada : Build with blocks.
+        Ada : Try a simple puzzle.
+        Ada : Read a story together.
 
 Parent: Emilia
 
@@ -92,7 +92,7 @@ Parent: Biff
         Child: Biff Jr   Age: 4
 
         .::Activity::.
-        Curriculum complete!
+        Biff : Curriculum complete!
 
 Parent: Milo
 
@@ -103,6 +103,6 @@ Parent: testParent
         Child: testBaby  Age: 5
 
         .::Activity::.
-        activity for 5
-        new one
+        testParent : activity for 5
+        testParent : new one
 ```

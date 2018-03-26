@@ -113,7 +113,7 @@ for parent in parents:
 	#display activity	
 	print '\n\t.::Activity::.'
 	for index, activity in enumerate(activities[0]):
-		print '\t' + activity
+		print '\t' + parent['parent'] + ' : ' + activity
 print '\n\n\n'
 
 
