@@ -10,10 +10,13 @@ Tembo Education
 > This supports manual input to add new items (parents and curriculum)
 
 ### Run
-`run education_json.py`
-`run education_input.py`
-
-### Input Data for `education_input.py` 
+```bash
+run education_json.py
+```
+```bash
+run education_input.py
+```
+> Please see the input/output result.
 
 ```bash
 $ python education_input.py
