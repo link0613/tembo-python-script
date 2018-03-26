@@ -71,7 +71,7 @@ while True:
 	try:
 		curriculumAge = input('\nPlease input the age for inputing curriculum data.: ')
 	except:
-		print 'Inputing parent data is completed!'
+		print '\tAdding activities is completed!'
 		break
 	curriculumIndexList = [curriculumIndex for curriculumIndex, curriculumEach in enumerate(curriculum) if curriculumEach['age'] == curriculumAge]
 	if len(curriculumIndexList) == 0:
@@ -88,7 +88,7 @@ while True:
 			print '\tAdding activities for this age is completed.'
 			break
 
-print '\n Inputing data is completed. \n\n'
+print '\nInputing data is completed. \n\n'
 
 # cycling				
 for parent in parents:

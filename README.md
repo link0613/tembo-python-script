@@ -54,10 +54,9 @@ Please input the activity you're going to add.:
         Adding activities for this age is completed.
 
 Please input the age for inputing curriculum data.:
-Inputing parent data is completed!
+        Adding activities is completed!
 
- Inputing data is completed.
-
+Inputing data is completed.
 
 
 Parent: Henry
